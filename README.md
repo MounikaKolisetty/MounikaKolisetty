@@ -9,37 +9,29 @@ I am a passionate and experienced **web developer** with over **6 years of exper
 - ⚡ Fun fact: I enjoy exploring new tools and frameworks to stay ahead in the tech industry.
 
 ### Skills 🔧
-#### **Languages**:
-- JavaScript, TypeScript, PHP, C#, HTML5, CSS3
-
-#### **Frontend Frameworks and Tools**:
-- Angular, React, React Native, Bootstrap, TailwindCSS
-
-#### **Backend Technologies**:
-- Node.js, .NET Framework, Express.js
-
-#### **Databases**:
-- MongoDB, MySQL, PostgreSQL
-
-#### **Hosting Platforms**:
-- GoDaddy, Vercel, Netlify
+- **Languages**: JavaScript, TypeScript, PHP, C#, HTML5, CSS3
+- **Frontend Frameworks and Tools**: Angular, React, React Native, Bootstrap, TailwindCSS
+- **Backend Technologies**: Node.js, .NET Framework, Express.js
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Hosting Platforms**: GoDaddy, Vercel, Netlify
 
 ### My Tech Stack at a Glance
 - **Frontend**: Crafting user-friendly interfaces with Angular and React.
-- **Backend**: Building scalable APIs and server-side logic with Node.js and .NET.
+- **Backend**: Building scalable APIs and server-side logic with PHP and .NET.
 - **Databases**: Managing and optimizing data storage with MongoDB and MySQL.
 
 ### Projects and Highlights
 - Developed multiple dynamic dashboards for businesses, focusing on seamless UX and real-time data updates.
 - Built scalable and responsive web applications using modern JavaScript frameworks.
 - Implemented advanced state management solutions in React and Angular for optimized performance.
+- Worked on the [enval.in](https://enval.in) project, delivering a high-quality, feature-rich web solution.
 
 ### Contact
 Feel free to reach out to discuss exciting opportunities or collaboration ideas:
-- **Email**: [mounika.kolisetty@example.com](mailto:mounika.kolisetty@example.com)
+- **Email**: [lakshmimounikak871@gmail.com](mailto:lakshmimounikak871@gmail.com)
 - **Portfolio**: Coming Soon
 - **GitHub**: [@mounikakolisetty](https://github.com/mounikakolisetty)
-- **LinkedIn**: [Mounika Kolisetty](https://linkedin.com/in/mounikakolisetty)
+- **LinkedIn**: [Mounika Kolisetty](https://www.linkedin.com/in/lakshmi-mounika-kolisetty-7b0b11a5/)
 
 ---
 I look forward to connecting and sharing my passion for web development!
